@@ -7,22 +7,22 @@
     <!--Enable or Disable Device Admin Strings-->
     <string name="enable_device_admin_button">"Администратор устройства настройки"</string>
     <string name="enable_device_admin_button_enabled">"Администратор устройства включен"</string>
-    <string name="error_no_device_admin">"Не администратор устройства, пожалуйста, включите в настройки"</string>
-    <string name="disable_device_admin">"Отключить администратор устройства"</string>
+    <string name="error_no_device_admin">"Не администратор устройства, пожалуйста, включите в настройках"</string>
+    <string name="disable_device_admin">"Отключить администратора устройства"</string>
     <string name="disable_device_admin_help_1">"Нажмите крышку объектива"</string>
-    <string name="disable_device_admin_help_2">"Затем нажмите кнопку \"Деактивировать этот администратора устройства\" на следующем экране"</string>
+    <string name="disable_device_admin_help_2">"Затем нажмите кнопку \"Деактивировать этого администратора устройства\" на следующем экране"</string>
     <string name="device_admin_already_disabled">"Администратор устройства уже отключен."</string>
     <string name="uninstall">"Удаление крышки объектива"</string>
 
     <!--Put on or take off lens cap strings-->
-    <string name="lens_cap_status_off">"Крышка объектива от"</string>
-    <string name="lens_cap_status_off2">"(Enabled камера)"</string>
+    <string name="lens_cap_status_off">"Крышка объектива отк."</string>
+    <string name="lens_cap_status_off2">"(Камера включена)"</string>
 
-    <string name="lens_cap_status_on">"Крышка объектива на"</string>
-    <string name="lens_cap_status_on2">"(Камера для инвалидов)"</string>
+    <string name="lens_cap_status_on">"Крышка объектива вкл."</string>
+    <string name="lens_cap_status_on2">"(Камера отключена)"</string>
 
-    <string name="lensCapOn">"положил шапку"</string>
-    <string name="lensCapOff">"взять шапку"</string>
+    <string name="lensCapOn">"закрыть объектив"</string>
+    <string name="lensCapOff">"открыть объектив"</string>
 
     <!--Device administrator specific strings-->
     <string name="device_admin_dialog">"Крышка объектива требуется разрешение, чтобы отключить камеру. \ П \ п На следующем экране необходимо активировать администратора устройства для крышка объектива."</string>
@@ -38,16 +38,16 @@
     <string name="appwidget_content_description">"Переключить Крышка объектива или выключить"</string>
 
     <!--Quick Settings Tile Strings-->
-    <string name="qs_tile_title">"Отключить камеры"</string>
-    <string name="qs_tile_enable">"Включение камеры"</string>
+    <string name="qs_tile_title">"Отключить камеру"</string>
+    <string name="qs_tile_enable">"Включить камеру"</string>
     <string name="qs_tile_description">"Описание"</string>
-    <string name="how_to_qs">"Быстрые настройки плитки помощь"</string>
-    <string name="quick_settings_text">"Новое на Android 7+: Быстрые настройки плитки"</string>
+    <string name="how_to_qs">"Быстрые настройки панели помощь"</string>
+    <string name="quick_settings_text">"Новое на Android 7+: Быстрые настройки панели"</string>
     <string name="qs_show_me_how">"Покажи мне, как!"</string>
 
     <!--Donation Strings-->
-    <string name="donate">"Как это приложение? Купите мне пи!"</string>
-    <string name="donate_thank_you">"Спасибо за поддержку меня! Ты жжешь!"</string>
+    <string name="donate">"Как вам приложение? Купите мне пи!"</string>
+    <string name="donate_thank_you">"Спасибо за поддержку!Ты жжешь!"</string>
     <string name="thumbs_up">"Большой палец вверх!"</string>
     <string name="info">Информация</string>
 
